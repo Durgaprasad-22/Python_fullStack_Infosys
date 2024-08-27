@@ -1,5 +1,12 @@
 import copy
 
+"""  --> shallow can't copy multi dimenetional array
+     --> only deepcopy can do that
+     import copy package for that
+     
+
+ """
+
 a=[
     [1,2,3],
     [4,5,6]
